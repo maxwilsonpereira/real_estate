@@ -1,0 +1,16 @@
+ROBSON
+BRUNO: Gerente financeiro
+
+PROTÓTIPO FRONTEND:
+7 dias, 6h por dia = 42h x 30 Euros = 1260 Euros
+OU
+7 dias, 6h por dia = 42h x 40 Euros = 1680 Euros
+
+DOMAIN (3 anos de Hosting com HostGator):
+200 Euros
+
+HOSTING (2 anos de VPS Server Hosting):
+300 Euros
+
+DOMAIN (2 anos de domínio URL):
+20 Euros
